@@ -31,7 +31,7 @@ class AboutMe:
         self.email = "shu_ke163@163.com"
         self.hobby = ["basketball", "dance"]
         self.web = "https://github.com/shuke163"
-        self.blog = "👋 https://www.cnblogs.com/aslongas"
+        self.blog = "https://www.cnblogs.com/aslongas"
         self.code = {
             'os': ["Redhat5.x-6.x", "centos6.x-7.x", "ubuntu18.x-20.x", 'GNU/Linux'],
             'frontend': ['Vue', 'Element-ui'],
@@ -60,7 +60,6 @@ if __name__ == '__main__':
     me = AboutMe()
 ```
 
-⭐️ From [shuke163](https://github.com/shuke163)
 
 <!---
 shuke163/shuke163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
