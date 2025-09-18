@@ -1,4 +1,4 @@
-<h1 align="center">I'm shuke <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h1>
+<h1 align="center">I'm fengfengZhao <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h1>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -35,7 +35,7 @@ class AboutMe:
         self.code = {
             'os': ["Redhat5.x-6.x", "centos6.x-7.x", "ubuntu18.x-20.x", 'GNU/Linux'],
             'frontend': ['Vue', 'Element-ui'],
-            'backend': ['Django', 'FastAPI', 'Flask', 'Python', 'Go', 'Celery', 'Flower', 'Casbin', 'graphql'],
+            'backend': ['Django', 'FastAPI', 'Flask'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Oracle', 'Tidb', 'Etcd', 'Hive'],
             'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Gitla-Ci', 'Ansible', "SaltStack", 'Terraform', 'Spinnaker'],
             'services': ['Nginx', 'Keepalive', 'Haproxy', 'OpenResty', 'Kong', 'DNS轮训', 'DNSmasq', 'BIND', 'DHCP', 'RSYNC',  'FTP', 'NFS', 'Tomcat', 'Squid', 'RabbitMQ', 'RocketMQ', 'Pulsar', 'Kafka', 'Zookeeper', 'AirFlow', 'minio', 'LVS', 'dpvs'],
